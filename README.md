@@ -40,22 +40,22 @@
 * Run Data_ETL_LP.ipynb 
 
 ### Data Stats
-* Run Data_stats.ipynb 
+* Run Full_Data_Statistics.ipynb 
 
 ### Data Prediction
 #### For Product Category: 
 * Run Classification_model.ipynb
 
 #### For Price Prediction: 
-* Run Regression_model.ipynb
+* Run Regression_Model.ipynb
 
 ### Data Influence
-* Run Classification_model.ipynb
+* Run data_exploration.ipynb
   
 ### Files produced/expected
 ### Data Cleaning
 * Final_data.csv
 
 ### Data Influence
-
+* output_complete_influence_scores.csv
 
