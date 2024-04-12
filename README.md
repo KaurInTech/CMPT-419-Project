@@ -1,6 +1,6 @@
 **CMPT419-Project**
 
-## In this project, we had done analysis and prediciton of the product category and prices of high end brands.
+## In this project, we had done analysis and prediciton of the product category and prices of high end luxury brands like Gucci, Louis Vuitton, and Loro Piana - across Canada, the USA, and the UK
 
 **Libraries used:**
 * Anaconda: https://www.anaconda.com
@@ -34,10 +34,13 @@
 ### Order of execution & Commands (and arguments):
 
 ### Data Cleaning and Exploration
-* Run data_ETL.ipynb first
+* Run Data_Load.ipynb first
+* Run Data_ETL_Gucci.ipynb
+* Run Data_ETL_LV.ipynb
+* Run Data_ETL_LP.ipynb 
 
 ### Data Stats
-
+* Run Data_stats.ipynb 
 
 ### Data Prediction
 #### For Product Category: 
